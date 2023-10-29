@@ -1,44 +1,12 @@
 ---
 layout: post
-title:  "Ενδεικτικό Jekyll post"
+title:  "Καλωσορίσατε στην ιστοσελίδα μας, μια πλατφόρμα αφιερωμένη στην ανάδειξη ιστορικών γυναικών που άφησαν εποχή με τις πράξεις και την παρουσία τους"
 date:   2022-08-01 03:01:00 +0000
-categories: jekyll
+categories: 
 ---
 
-Αυτό είναι ένα τυπικό blog post στο Jekyll.  
-Για να δημιουργήσετε νέα posts απλά δημιουργήστε νέα αντίστοιχα αρχεία (με ανάλογο filename και ανάλογη πληροφορία στο front matter/header του αρχείου) στο φάκελο `_posts`.  
-Δείτε περισσότερα για το πώς μπορείτε να μορφοποιήσετε το περιεχόμενο πιο κάτω και στις σελίδες:
-* [Markdown cheatsheet][md-cheat]
-* [Markdown official guide][md-guide]
-* [Markdown online editor][md-editor]
+Καλωσορίσατε στην ιστοσελίδα μας, ένας διαδικτυακός προορισμός αφιερωμένος στην αναβίωση των παραγνωρισμένων ιστοριών γυναικών που σφράγισαν την πορεία της ανθρώπινης ιστορίας με το θάρρος, την αφοσίωση και την ανυποχώρητη δέσμευσή τους στην αρχή της ισότητας.
 
-[md-cheat]: https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
-[md-guide]: https://www.markdownguide.org
-[md-editor]: https://dillinger.io
+Στον πυρήνα της αποστολής μας κατατάσσεται η εμβάθυνση στις ζωές αυτών των πρωτοπόρων γυναικών και η ανάδειξη του συνεισφοράς τους στην πολιτιστική μας κληρονομιά. Με μεγάλη ευαισθησία και αναγνώριση της σπουδαιότητάς τους, δίνουμε φωνή σε αυτές τις αξιοσημείωτες φιγούρες, αναδεικνύοντας την αντοχή τους απέναντι στις προκλήσεις και την επίδρασή τους στην κοινότητα και τον κόσμο γύρω τους.
 
-**_ToDo_ σας**:  
-
-- Δημιουργήστε ένα ακόμη post το οποίο να έχει σημερινή ημερομηνία και να αναφέρει τους σκοπούς ενασχόλησή σας με αυτό το μάθημα.  
-Το post σας θα πρέπει να βρίσκεται εντός του φακέλου `_posts`, να έχει όνομα αρχείου `2022-09-03-my-goals.md` και να ανήκει στην κατηγορία `learning-jekyll`
-
----
-
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
-
-To add new posts, simply add a file in the `_posts` directory that follows the convention `YYYY-MM-DD-name-of-post.ext` and includes the necessary front matter. Take a look at the source for this post to get an idea about how it works.
-
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
-{% endhighlight %}
-
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
-
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
+Στην ενότητα που αφορά εμάς, θα θέλαμε να μοιραστούμε με εσάς τον πάθος που μας οδήγησε στη δημιουργία αυτής της πλατφόρμας. Καθοδηγούμενοι από την πίστη μας στην αναγκαιότητα της ισότητας και της δικαιοσύνης, αναδεικνύουμε τον πολιτισμό της συμμετοχής και της διαφορετικότητας. Καλωσορίζουμε κάθε επισκέπτη να εξερευνήσει αυτήν την πλατφόρμα και να μοιραστεί την εμπειρία της ανακάλυψης και της έμπνευσης που προσφέρουν οι ιστορίες αυτών των θαρραλέων γυναικών.
