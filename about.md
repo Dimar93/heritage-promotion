@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Σχετικά με εμάς
-permalink: /about/
+permalink: /aboutus/
 ---
 **_Ποιοι_ είμαστε;**
 
