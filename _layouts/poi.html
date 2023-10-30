@@ -8,6 +8,31 @@ load_leaflet: 1
 <h3 id="wikidata_descr"></h3>
 <a id="wikidata_href" target="_blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/archive/5/5a/20211013163259%21Wikipedia%27s_W.svg" alt="Wikipedia link" height="20px"/> <span id="wikipedia_title"> </a>
 <p id="wikidata_location"></p>
+<script> var idCoordinates = {
+  'Q5588': { lat: 19.355031, lon: -99.162844 },
+  'Q7186': { lat: 48.8442, lon: 2.3436 },
+  'Q32732': { lat: 33.25144981810334, lon: 73.34354283063175 },
+  'Q56434717': { lat: 40.45, lon: -3.6 },
+};
+var map = L.map('map', {fullscreenControl: {pseudoFullscreen: true}}).setView([48.858844, 2.294351], 13);
+
+L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {maxZoom: 19, attribution: '© OpenStreetMap'}).addTo(map);
+
+for (var id in idCoordinates) {
+  if (idCoordinates.hasOwnProperty(id)) {
+    var lat = idCoordinates[id].lat;
+    var lon = idCoordinates[id].lon;
+    var marker = L.marker([lat, lon]).addTo(map);
+    marker.bindPopup('Σημείο για το ID ' + id).openPopup();
+  }
+}
+</script>
+
+
+
+
+
+
 
 <img id="wikidata_img" style="width:100%; padding-bottom:5px;" />
 
