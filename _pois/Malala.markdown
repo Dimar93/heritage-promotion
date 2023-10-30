@@ -1,0 +1,8 @@
+---
+layout: Μάθε τώρα 
+wikidatum: Q32732
+title:  Malala Yousafzai
+---
+
+Sample text 
+
