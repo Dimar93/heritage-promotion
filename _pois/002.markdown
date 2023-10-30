@@ -1,7 +1,7 @@
 ---
 layout: Μάθε τώρα 
 wikidatum: Q5588
-title:  Frida Kahlo
+title:  Φρίντα Κάλο
 ---
 
 Sample text 
