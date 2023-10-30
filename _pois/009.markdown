@@ -1,4 +1,4 @@
- ---
+---
 layout: poi 
 wikidatum: Q567
 title:  Άνγκελα Μέρκελ
