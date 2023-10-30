@@ -1,11 +1,9 @@
 console.log("Fetch: ", wikidatum); 
-var wikidataIDs = ['Q7186', 'Q5588', 'Q56434717', 'Q32732', 'Q22025388'];
-for (var i = 0; i < wikidataIDs.length; i++) {
-  get_wikidatum(wikidataIDs[i]);
-function get_wikidatum(wikidataIDs[i]){
+
+function get_wikidatum(id){
     console.log('Getting from wikidata entity: ', id);
     // WikiMedia API based:
-    let url = `https:/https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q7186&languages=el*`;
+    let url = `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${id}&format=json&languages=en|el&origin=*`;
     // WikiData URI based:
     // let url = `https://www.wikidata.org/wiki/Special:EntityData/${id}.json`;
     console.log('API endpoint:', url);
@@ -88,4 +86,4 @@ function get_json_value(json_key, data){
     return null; //on error
 }
 
-get_wikidatum(wikidataIDs[i]);
+get_wikidatum(wikidatum);
