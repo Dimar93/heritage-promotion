@@ -1,5 +1,5 @@
 ---
-layout: Μάθε τώρα 
+layout: poi 
 wikidatum: Q7186
 title:  Μαρία Κιουρί
 ---
