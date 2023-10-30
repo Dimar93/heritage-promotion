@@ -3,7 +3,7 @@ console.log("Fetch: ", wikidatum);
 function get_wikidatum(id){
     console.log('Getting from wikidata entity: ', id);
     // WikiMedia API based:
-    let url = `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${id}&format=json&languages=en|el&origin=*`;
+    let url = `https:/https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q7186&languages=el*`;
     // WikiData URI based:
     // let url = `https://www.wikidata.org/wiki/Special:EntityData/${id}.json`;
     console.log('API endpoint:', url);
