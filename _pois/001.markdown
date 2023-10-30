@@ -1,7 +1,7 @@
 ---
 layout: Μάθε τώρα 
 wikidatum: Q7186
-title:  Marie Curie
+title:  Μαρία Κιουρί
 ---
 
 sample text
