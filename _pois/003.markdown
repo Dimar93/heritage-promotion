@@ -1,5 +1,5 @@
 ---
-layout: Μάθε τώρα 
+layout: poi 
 wikidatum: Q56434717
 title:  Γκρέτα Τούνμπεργκ
 ---
