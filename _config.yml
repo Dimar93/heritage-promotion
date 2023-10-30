@@ -23,7 +23,9 @@ baseurl: "heritage-promotion" # the subpath of your site, e.g. /blog
 url: "" # https://dimar93.github.io/heritage-promotion/
 # twitter_username: shmantikesgynaikes
 github_username:  Dimar93 Geoplam
-
+Instagram: https://www.instagram.com/oi_gynaikes_pou_eminan_stin_istoria/
+Facebook: https://www.facebook.com/oi_gynaikes_pou_eminan_stin_istoria
+Twitter: https://www.twitter.com/gynaikes_istoria
 # Build settings
 markdown: kramdown
 theme: minima
