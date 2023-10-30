@@ -1,5 +1,5 @@
 ---
-layout: Μάθε τώρα περισσότερα 
+layout: Μάθε τώρα 
 wikidatum: Q7186
 title:  Marie Curie
 ---
