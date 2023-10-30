@@ -8,4 +8,4 @@ top_img: assets/women.jpg
 Ανακαλύψτε τις σπουδαίες γυναίκες που άφησαν εποχή με τις πράξεις τους στην ιστοσελίδα μας
 
 about.md: Σχετικά με εμάς
-top_img: assets/
+top_img: assets/power.jpg
