@@ -1,7 +1,7 @@
 ---
 layout: Μάθε τώρα 
 wikidatum: Q32732
-title:  Malala Yousafzai
+title:  Μαλάλα Γιουσαφζάι
 ---
 
 Sample text 
