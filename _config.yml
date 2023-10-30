@@ -12,7 +12,7 @@
 # These are used to personalize your new site. If you look in the HTML files,
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
+# in the templates via {{ https://dimar93.github.io/heritage-promotion/ }}.
 title: Γυναίκες που έμειναν στην ιστορία
 # email:shmantikesgynaikes@gmail.com 
 description: >- # this means to ignore newlines until "baseurl:"
@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   στα πλαίσια εργασίας του μαθήματος Εργαλεία Προβολής Πολιτιστικού& Τουριστικού Προίόντος 
   του ΠΜΣ Ψηφιακές Εφαρμογές και Καινοτομία του Ιονίου Πανεπιστημίου.
 baseurl: "heritage-promotion" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "" # https://dimar93.github.io/heritage-promotion/
 # twitter_username: shmantikesgynaikes
 github_username:  Dimar93 Geoplam
 
