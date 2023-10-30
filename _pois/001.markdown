@@ -4,4 +4,10 @@ wikidatum: Q7186
 title:  Μαρία Κιουρί
 ---
 
-sample text
+<ul>
+  {% for p in site.pois %}
+    <li>
+      <a href="{{ p.url | relative_url}}">{{ p.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
