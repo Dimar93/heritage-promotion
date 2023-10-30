@@ -1,7 +1,7 @@
 ---
-layout: poi
-wikidatum: Q121378
-title:  Κέρκυρα
+layout: Μάθε τώρα περισσότερα 
+wikidatum: Q7186
+title:  Marie Curie
 ---
 
 Sample text 
