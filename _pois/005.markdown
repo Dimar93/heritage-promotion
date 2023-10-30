@@ -1,5 +1,5 @@
 ---
-layout: Μάθε τώρα 
+layout: poi 
 wikidatum: Q22025388
 title:  Ρόζα Παρκς
 ---
