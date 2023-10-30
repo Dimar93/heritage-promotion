@@ -18,9 +18,7 @@ title: Γυναίκες που έμειναν στην ιστορία
 description: >- # this means to ignore newlines until "baseurl:"
   Ο ιστοχώρος αυτός αναπτύχτηκε από την Δήμητρα Αργυρού και την Γεωργία Πλαμαντούρα 
   στα πλαίσια εργασίας του μαθήματος Εργαλεία Προβολής Πολιτιστικού& Τουριστικού Προίόντος 
-  του ΠΜΣ Ψηφιακές Εφαρμογές και Καινοτομία του Ιονίου Πανεπιστημίου. Social media:Instagram: https://www.instagram.com/oi_gynaikes_pou_eminan_stin_istoria/
-               Facebook: https://www.facebook.com/oi_gynaikes_pou_eminan_stin_istoria
-               Twitter: https://www.twitter.com/gynaikes_istoria
+  του ΠΜΣ Ψηφιακές Εφαρμογές και Καινοτομία του Ιονίου Πανεπιστημίου.                                            S
 baseurl: "heritage-promotion" # the subpath of your site, e.g. /blog
 url: "" # https://dimar93.github.io/heritage-promotion/
 # twitter_username: shmantikesgynaikes
