@@ -1,6 +1,6 @@
 console.log("Fetch: ", wikidatum); 
 
-function get_wikidatum(id){
+function get_wikidatum('Q7186','Q5588','Q56434717','Q32732','Q22025388){
     console.log('Getting from wikidata entity: ', id);
     // WikiMedia API based:
     let url = `https:/https://www.wikidata.org/w/api.php?action=wbgetentities&ids=Q7186&languages=el*`;
