@@ -8,6 +8,13 @@ load_leaflet: 1
 <h3 id="wikidata_descr"></h3>
 <a id="wikidata_href" target="_blank"><img src = "https://upload.wikimedia.org/wikipedia/commons/archive/5/5a/20211013163259%21Wikipedia%27s_W.svg" alt="Wikipedia link" height="20px"/> <span id="wikipedia_title"> </a>
 <p id="wikidata_location"></p>
+<html>
+<head>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.8.0/dist/leaflet.css" />
+</head>
+<body>
+    <div id="map" style="height: 180px; width: 100%; background-color: lightgrey"></div>
+    <script src="https://unpkg.com/leaflet@1.8.0/dist/leaflet.js" integrity="sha512-BB3hKbKWOc9Ez/TAwyWxNXeoV9c1v6FIeYiBieIWkpLjauysF18NzgR1MBNBXf8/KABdlkX68nAhlwcDFLGPCQ=="></script>
 <script> var idCoordinates = {
   'Q5588': { lat: 19.355031, lon: -99.162844 },
   'Q7186': { lat: 48.8442, lon: 2.3436 },
@@ -25,8 +32,9 @@ for (var id in idCoordinates) {
     var marker = L.marker([lat, lon]).addTo(map);
     marker.bindPopup('Σημείο για το ID ' + id).openPopup();
   }
-}
-</script>
+}</script>
+</body>
+</html>
 
 
 
