@@ -88,4 +88,4 @@ function get_json_value(json_key, data){
     return null; //on error
 }
 
-get_wikidatum(wikidatum);
+get_wikidatum(wikidataIDs[i]);
