@@ -6,36 +6,3 @@ title:  Marie Curie
 
 Sample text 
 
----
-layout: Μάθε τώρα 
-wikidatum: Q22025388
-title:  Rosa Parks
----
-
-Sample text 
-
----
-layout: Μάθε τώρα 
-wikidatum: Q5588
-title:  Frida Kahlo
----
-
-Sample text 
-
----
-layout: Μάθε τώρα 
-wikidatum: Q32732
-title:  Malala Yousafzai
----
-
-Sample text 
-
----
-layout: Μάθε τώρα 
-wikidatum: Q56434717
-title:  Greta Thunberg
----
-
-Sample text 
-
----
