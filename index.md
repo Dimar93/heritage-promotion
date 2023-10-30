@@ -3,6 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-top_img: assets/culture.jpg
+top_img: women.jpg
 ---
 Ανακαλύψτε τις σπουδαίες γυναίκες που άφησαν εποχή με τις πράξεις τους στην ιστοσελίδα μας
