@@ -1,7 +1,7 @@
 ---
 layout: Μάθε τώρα 
 wikidatum: Q56434717
-title:  Greta Thunberg
+title:  Γκρέτα Τούνμπεργκ
 ---
 
 Sample text 
