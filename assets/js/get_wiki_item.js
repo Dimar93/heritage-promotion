@@ -1,20 +1,20 @@
 console.log("Fetch: ", wikidatum); 
 
-function get_wikidatum(Q7186){
-    console.log('Getting from wikidata entity: ', Q7186);
+function get_wikidatum(id){
+    console.log('Getting from wikidata entity: ', id);
     // WikiMedia API based:
     let url = `https://www.wikidata.org/w/api.php?action=wbgetentities&ids=${id}&format=json&languages=en|el&origin=*`;
     // WikiData URI based:
-    // let url = `https://www.wikidata.org/wiki/Special:EntityData/${Q7186}.json`;
+    // let url = `https://www.wikidata.org/wiki/Special:EntityData/${id}.json`;
     console.log('API endpoint:', url);
     var jqxhr = $.getJSON( url, function(data) {
           //console.log( "Success; entities returned: ", Object.keys(data).length );
 
-          let description = get_json_value(['entities',Q7186,'descriptions','el','value'], data);
+          let description = get_json_value(['entities',id,'descriptions','el','value'], data);
           if (description)
             $('#wikidata_descr').text( get_first_upper(description) );
 
-          let elwikititle = get_json_value(['entities',Q7186,'sitelinks','elwiki','Q7186'], data);
+          let elwikititle = get_json_value(['entities',id,'sitelinks','elwiki','title'], data);
           if (elwikititle) {
             $('#wikidata_title').text( get_first_upper(elwikititle) );
             $('#wikidata_href').attr('href', 'https://el.wikipedia.org/wiki/'+elwikititle );
